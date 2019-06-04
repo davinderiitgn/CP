@@ -1,0 +1,6 @@
+Vector - 
+pop_back - remove and return last element. Constant Time Operation.
+front - read/write front element - Constant Time
+back - read/write last element - Constant Time
+erase - erase either one or specified range of elemnts - Linear
+clear - Clear entire vector - Linear
